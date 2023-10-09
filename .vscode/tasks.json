@@ -7,7 +7,7 @@
             "command": "g++",
             "args": [
                 "-g",
-                "Leet_code_1337.cpp", // Replace with your source file name
+                "Leet_code_51.cpp", // Replace with your source file name
                 "-o",
                 "feed.exe" // Replace with your desired output file name
             ],
